@@ -1,0 +1,8 @@
+# What should have reported in, and how often.
+# sargas checks for absence — the failure that raises no error.
+
+pushed  dawn               6h    trunk backed up to origin
+fresh   journal/*.md       26h   the nightly journal
+fresh   experiments/05-the-stall/goods/*/  48h   something built this week
+ran     .sargas.d/build          25h   the ausrine-build routine
+ran     .sargas.d/reflect        25h   the ausrine-reflect routine
